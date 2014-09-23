@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    <item name="android:actionBarStyle">@style/actionBar</item>
+    </style>
+
+    <style name="actionBar" parent="Widget.AppCompat.ActionBar">
+        <!-- タイトルバーの背景色 -->
+        <item name="android:background">#A31F21</item>
+    </style>
+
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nigazuki.campusfestival.app" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.nigazuki.campusfestival.app.Top_Activity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.nigazuki.campusfestival.app.Event_Activity"
+            android:label="@string/title_activity_event_"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.nigazuki.campusfestival.app.Play_Activity"
+            android:label="@string/title_activity_play__top_"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.nigazuki.campusfestival.app.Watch_Activity"
+            android:label="@string/title_activity_watch_"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.nigazuki.campusfestival.app.Information_Activity"
+            android:label="@string/title_activity_information_"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.nigazuki.campusfestival.app.Twitter_Activity"
+            android:label="@string/title_activity_twitter_"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.nigazuki.campusfestival.app.TimetableActivity"
+            android:label="@string/title_activity_schedulea" >
+        </activity>
+        <activity
+            android:name="com.nigazuki.campusfestival.app.Timetable_tab1Activity"
+            android:label="@string/title_activity_timetable_tab1" >
+        </activity>
+        <activity
+            android:name="com.nigazuki.campusfestival.app.MAP_Activity"
+            android:label="@string/title_activity_map" >
+        </activity>
+        <activity
+            android:name="com.nigazuki.campusfestival.app.Eat_Activity"
+            android:label="@string/title_activity_eat" >
+        </activity>
+    </application>
+
+</manifest>

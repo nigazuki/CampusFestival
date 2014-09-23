@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="play_image">
+        <item>@drawable/ec_1</item>
+        <item>@drawable/noimage</item>
+        <item>@drawable/m1</item>
+        <item>@drawable/ee1</item>
+        <item>@drawable/ee2</item>
+        <item>@drawable/ec2</item>
+        <item>@drawable/kozin_sumabura</item>
+        <item>@drawable/kozin_sumabura</item>
+        <item>@drawable/kozin_card</item>
+        <item>@drawable/katanuki</item>
+
+    </array>
+    <array name="play_title">
+        <item>ゲームコーナー</item>
+        <item>かんきょーゲーム</item>
+        <item>紙飛行機大会</item>
+        <item>GAY♂専 ※射的屋です</item>
+        <item>ビンゴ大会</item>
+        <item>数理喫茶</item>
+        <item>スマブラX大会</item>
+        <item>ポケモン大会</item>
+        <item>カードゲーム大会</item>
+        <item>型抜き</item>
+
+    </array>
+    <array name="play_message">
+        <item>ゲームコーナーはダーツ，輪投げなど色々なミニゲームを企画しています!!\n楽しいミニゲームがたくさんあります．\nぜひ来てください</item>
+        <item>今回は駄菓子を商品としたゲームをします．\nこのゲームに応じた景品が贈られるので頑張ってください!!</item>
+        <item>機械1年は教室で紙飛行機大会を開催します．\n好成績を出した人には，先着でちょっとした商品を用意してあるので，腕に自信のある人はぜひ来て見てください．</item>
+        <item>君を打ち抜く面白さ\n男がみんなを待っている！\nGAY 品( 景品) もたくさん用意してます\n打って打って、打ちまくれ！！！\n</item>
+        <item>豪華？景品を用意していますので、ぜひ来てください！\nビンゴカードは電気2年生が学校内で配布しています。</item>
+        <item>数理演習の問題を学生の方々に解いてもらい、\n合格(3点か4点、検討中)した方におかしやジュースなどを配ります。</item>
+        <item>スマブラXのフリープレイ・大会を行います．\n参加者募集！</item>
+        <item>12時まで参加者を募集し，13時開始．\nブラック・ホワイト最後の大！\n多数の参加お待ちしております！</item>
+        <item>遊戯王の大会を行います．\n優勝者には豪華賞品が!?\nまた，大会を行っている時間以外は\nカードゲーム用(もちろん遊戯王以外でもOK)\nのフリースペースとして開放します</item>
+        <item>祭りでおなじみのカタヌキに挑戦しよう!\n未工祭を120%楽しむならココ</item>
+
+    </array>
+    <array name="play_person">
+        <item>電子制御工学科1年</item>
+        <item>環境都市工学科1年</item>
+        <item>機械工学科1年</item>
+        <item>電気電子システム工学科1年</item>
+        <item>電気電子システム工学科2年</item>
+        <item>電子制御工学科2年</item>
+        <item>個人企画(ゲーム大会)</item>
+        <item>個人企画(ゲーム大会)</item>
+        <item>個人企画</item>
+        <item>個人企画(わさんぼん)</item>
+        <item></item>
+
+    </array>
+    <array name="play_place">
+        <item>413講義室</item>
+        <item>411講義室</item>
+        <item>421講義室</item>
+        <item>422講義室</item>
+        <item>621講義室</item>
+        <item>622講義室</item>
+        <item>651講義室</item>
+        <item>651講義室</item>
+        <item>652講義室</item>
+        <item>第2体育館前</item>
+
+    </array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Campus Festival</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_event_">Event_Activity</string>
+    <string name="title_activity_play__top_">Play_Top_Activity</string>
+    <string name="title_activity_first_">First_Activity</string>
+    <string name="title_activity_watch_">Watch_Activity</string>
+    <string name="title_activity_information_">Information_Activity</string>
+    <string name="title_activity_twitter_">Twitter_Activity</string>
+    <string name="title_activity_schedulea">ScheduleaActivity</string>
+    <string name="title_activity_timetable_tab1">Timetable_tab1Activity</string>
+    <string name="title_activity_eat">Eat_Activity</string>
+    <string name="title_activity_map">MAP_Activity</string>
+
+</resources>
